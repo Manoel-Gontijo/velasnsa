@@ -17,10 +17,10 @@ window.NSA_CONFIG = {
     tiktok: ""
   },
   marketing: {
-    trackingAtivo: false,
-    googleAnalyticsId: "",
-    metaPixelId: ""
-  },
+  trackingAtivo: true,
+  googleAnalyticsId: "G-2FK92MSW9V",
+  metaPixelId: ""
+},
 
   carousel: {
     intervaloMs: 7000,
